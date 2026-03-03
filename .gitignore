@@ -1,0 +1,19 @@
+# --- Compiled Objects and Libraries ---
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# --- Executables ---
+avl_demo
+avl_test
+heap_demo
+heap_test
+btree_demo
+btree_test
+
+
+# --- Build Artifacts ---
+build/
+bin/
